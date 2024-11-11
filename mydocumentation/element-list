@@ -1,0 +1,10 @@
+pet_registry
+pet_registry.model.animal
+pet_registry.model.animal.comparators
+pet_registry.model.builder
+pet_registry.model.pet_registry
+pet_registry.model.service
+pet_registry.model.writer
+pet_registry.presenter
+pet_registry.view
+pet_registry.view.commands
